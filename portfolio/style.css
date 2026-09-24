@@ -9,7 +9,7 @@
 }
 
 html{
-  font-size: 62.5%;
+  font-size: 63.5%;
   scroll-behavior: smooth;
   scroll-padding-top: 7rem;
   overflow-x: hidden;
@@ -44,7 +44,7 @@ header{
 }
 
 .logo{
-    font-size: 1.8rem;
+    font-size: 1.95rem;
     color: #e51520;
     font-family: "tektur";
     letter-spacing: 2px;
@@ -61,7 +61,7 @@ header{
 
 .navbar a:hover{
     color: #e51520;
-    transform: scale(1.2);
+    transform: scale(1.7);
 }
 
 .hero{
@@ -91,7 +91,7 @@ header{
     border: 1px solid #e51520;
     padding: 10px 20px;
     margin: 7px;
-    font-size: 1.2rem;
+    font-size: 1.35rem;
     background-color: #e51520;
     border-radius: 20px;
 }
@@ -119,6 +119,7 @@ header{
     color: #ffffff;
     max-width: 700px;
     margin: 10px auto;
+    font-size: 1.2rem;
     line-height: 1.6;
     text-align: center;
 }
@@ -364,12 +365,12 @@ h1{
 
 .experience-card span{
     color: #e51520;
-    font-size: 0.8rem;
+    font-size: 0.95rem;
 }
 
 .experience-card p{
     color: #cccccc;
-    font-size: 0.78rem;
+    font-size: 1.2rem;
     margin: 8px 0 0;
     line-height: 1.5;
 }
@@ -393,7 +394,7 @@ h1{
     text-align: center;
     max-width: 650px;
     margin: 0 auto 40px;
-    font-size: 1rem;
+    font-size: 1.2rem;
     line-height: 1.5;
 }
 
@@ -432,7 +433,7 @@ h1{
 
 .project-info h3{
     color: #fff;
-    font-size: 1rem;
+    font-size: 1.25rem;
     margin: 0 0 7px;
 }
 
@@ -586,7 +587,7 @@ h1{
     color: #cccccc;
     padding: 10px;
     border-radius: 20px;
-    font-size: .8rem;
+    font-size: .99rem;
     cursor: pointer;
     transition: .3s ease;
 }
@@ -612,7 +613,7 @@ h1{
 
 .contact-info p{
     color: #cccccc;
-    font-size: .8rem;
+    font-size: 1.2rem;
     line-height: 1.45;
     margin: 0 0 5px;
 }
@@ -624,7 +625,7 @@ h1{
 
 .contact-info li{
     color: #cccccc;
-    font-size: .8rem;    
+    font-size: 1.2rem;    
     margin: 2px 0;
 }
 
@@ -799,7 +800,7 @@ h1{
 
 .contact-form label {
     display: block;
-    color: #ccc;
+    color: #e0dada;
     font-size: 1.4rem;
     margin-bottom: 6px;
 }
@@ -869,8 +870,8 @@ h1{
 }
 
 .contact-info-box p {
-    color: #888;
-    font-size: 1.25rem;
+    color: #ebe9e9;
+    font-size: 1.45rem;
     line-height: 1.7;
     margin-bottom: 20px;
 }
@@ -901,7 +902,7 @@ h1{
 }
 
 .info-card p {
-    color: #777;
+    color: #cfcfcf;
     font-size: 1rem;
     line-height: 1.5;
 }
@@ -929,7 +930,7 @@ h1{
 }
 
 .social-area .contact-social-links a {
-    color: #888;
+    color: #e0dada;
     font-size: .9rem;
     transition: .3s ease;
 }
@@ -969,7 +970,7 @@ h1{
 .contact-cta p {
     max-width: 550px;
     margin: auto;
-    color: #888;
+    color: #e0dada;
     font-size: 1.25rem;
     line-height: 1.7;
 }
@@ -1071,7 +1072,7 @@ h1{
 .faq-hero p {
     max-width: 550px;
     margin: 20px auto 0;
-    color: #888;
+    color: #e0dada;
     font-size: 1.25rem;
     line-height: 1.7;
 }
@@ -1140,7 +1141,7 @@ h1{
 }
 
 .faq-answer p {
-    color: #888;
+    color: #e0dada;
     font-size: 1.25rem;
     line-height: 1.7;
     padding: 0 20px 18px;
@@ -1179,7 +1180,7 @@ h1{
 }
 
 .faq-cta p {
-    color: #888;
+    color: #e2e2e2;
     font-size: 1.25rem;
 }
 
@@ -1360,8 +1361,8 @@ h1{
 }
 
 .projects-hero p {
-    color: #888;
-    font-size: 1.25rem;
+    color: #e2e1e1;
+    font-size: 1.35rem;
     margin-top: 15px;
 }
 
@@ -1408,7 +1409,7 @@ h1{
 
 .project-info p {
     color: #fff;
-    font-size: .95rem;
+    font-size: .99rem;
     line-height: 1.6;
     max-width: 280px;
 }
@@ -1526,7 +1527,7 @@ h1{
     max-width: 550px;
     margin: 15px auto 0;
     color: #888;
-    font-size: .7rem;
+    font-size: .87rem;
     line-height: 1.7;
 }
 
@@ -1631,7 +1632,7 @@ h1{
     .contact-hero p,
     .faq-hero p,
     .projects-hero p {
-        font-size: 1.3rem;
+        font-size: 1.35rem;
     }
 
     .projects-grid,
